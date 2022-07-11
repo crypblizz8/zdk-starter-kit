@@ -37,7 +37,7 @@ export default function Dropdown() {
           <div className="py-1">
             <Menu.Item>
               <NextLink href={`/explorer`} passHref key={"explorer"}>
-                <a className="first-letter:bg-gray-100 text-gray-900  block px-4 py-2 text-sm">
+                <a className="text-gray-900  block px-4 py-2 text-sm">
                   Explorer
                 </a>
               </NextLink>
@@ -50,7 +50,7 @@ export default function Dropdown() {
               >
                 <a
                   target="_blank"
-                  className="first-letter:bg-gray-100 text-gray-900  block px-4 py-2 text-sm"
+                  className="text-gray-900  block px-4 py-2 text-sm"
                 >
                   Code
                 </a>
@@ -64,7 +64,7 @@ export default function Dropdown() {
               >
                 <a
                   target="_blank"
-                  className="first-letter:bg-gray-100 text-gray-900  block px-4 py-2 text-sm"
+                  className="text-gray-900  block px-4 py-2 text-sm"
                 >
                   Docs
                 </a>

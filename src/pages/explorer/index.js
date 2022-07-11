@@ -17,7 +17,7 @@ export default function Explorer() {
   useEffect(() => {}, [data]);
 
   const rightColumnContent = (
-    <div className="w-2/3 sm:px-8">
+    <div className="w-full sm:px-4">
       <div>
         <p className="my-6 font-bold text-4xl">
           Search for different types of NFTs with the ZDK
