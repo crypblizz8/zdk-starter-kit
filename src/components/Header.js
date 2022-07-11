@@ -6,23 +6,26 @@ const Header = () => {
   return (
     <>
       <>
-        <meta property="og:url" content="https://www.lilpragma.xyz/" />
+        <meta property="og:url" content="https://zdk-starter-kit.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="ZDK Starter Kit" />
         <meta property="og:description" content="ZDK Starter Kit" />
         <meta
           property="og:image"
-          content="https://www.lilpragma.xyz/ogImage.png"
+          content="https://zdk-starter-kit.vercel.app/ogImage.png"
         />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="lilpragma.xyz" />
-        <meta property="twitter:url" content="https://www.lilpragma.xyz/" />
+        <meta
+          property="twitter:url"
+          content="https://zdk-starter-kit.vercel.app/"
+        />
         <meta name="twitter:title" content="ZDK Starter Kit" />
         <meta name="twitter:description" content="ZDK Starter Kit" />
         <meta
           name="twitter:image"
-          content="https://www.lilpragma.xyz/ogImage.png"
+          content="https://zdk-starter-kit.vercel.app/ogImage.png"
         />
         <title>ZDK Starter Kit</title>
         <meta name="description" content="ZDK Starter Kit" />
